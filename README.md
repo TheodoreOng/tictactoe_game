@@ -11,6 +11,6 @@ Follow the on-screen prompts to input moves for each player. The game board will
 Win/Draw Conditions: 
 The game will declare a winner if one player meets the winning criteria or announce a draw if no spaces are left.
 
-This Tic-Tac-Toe game is an excellent project for beginners to understand basic game logic, user input handling, and conditional statements in Python.
+This game is an excellent project for beginners to understand basic game logic, user input handling, and conditional statements in Python.
 
 
